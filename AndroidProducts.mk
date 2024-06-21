@@ -6,8 +6,3 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lmodroid_kebab.mk
-
-COMMON_LUNCH_CHOICES := \
-    lmodroid_kebab-user \
-    lmodroid_kebab-userdebug \
-    lmodroid_kebab-eng
