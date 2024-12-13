@@ -1,5 +1,5 @@
 ## All proprietary files from this list, unless pinned and noted otherwise, are
-## from OnePlus 8T (KB2005_14.0.0.601(EX01)).
+## from OnePlus 8T (KB2005_14.0.0.603(EX01)).
 
 # ACDB
 odm/etc/acdbdata/Audio_Parameter_Version.txt
@@ -106,6 +106,7 @@ odm/etc/sensor/config/kona_T0_sx9324up_0.json
 odm/etc/sensor/config/kona_ak991x_0.json
 odm/etc/sensor/config/kona_bmi26x_0.json
 odm/etc/sensor/config/kona_bmp380_0.json
+odm/etc/sensor/config/kona_bu52053nvx_0.json
 odm/etc/sensor/config/kona_mmc5603x_0.json
 odm/etc/sensor/config/kona_qrd_alsps.json
 odm/etc/sensor/config/kona_qrd_bmi26x_0.json
